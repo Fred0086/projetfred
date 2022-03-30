@@ -4,6 +4,7 @@ class test:
         self.type="type"
 	    self.color="red"
 	    self.trigger=True
+        self.pipo="pipo"
 
 obj=test()
 
